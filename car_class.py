@@ -18,8 +18,7 @@ class Car(Vehicle):
         return ' beep beep '
 
 
-car1 = Car(5,10,'Ford Mondeo',700,'130 mph')
 
-print(car1.brand)
+
 
 
