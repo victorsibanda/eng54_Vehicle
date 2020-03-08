@@ -1,13 +1,22 @@
-# import my vehicle class
-
-# define car class here and make it inherit from vehicle
+from vehicle_class import *
 
 
-#Characterists:
-# brand
-# horse_power
-# max_speed
+class Car(Vehicle):
+    pass
 
-#methods :
-# park
-# honk
+    def __init__(self,n_passengers,cargo_size,brand,horsepower,max_speed):
+        super().__init__ (n_passengers,cargo_size)
+        self.brand = brand
+        self.horsepower = horsepower
+        self.max_speed = max_speed
+
+
+    def park(self):
+        return ' parking parking parking '
+
+    def honk(self):
+        return ' beep beep '
+
+
+
+
