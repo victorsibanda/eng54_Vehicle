@@ -1,4 +1,4 @@
-##Vehicle OOP
+# Vehicle OOP :Wink:
 
 In this project I have created 3 classes. The first class created
 is the vehicle class. In which the characteristics for the cargo size and passenger
@@ -11,7 +11,7 @@ park and honk are created for the car class.
 I have tested the Classes by calling them in the run_vehicle file, printing 
 the output to see if the desired output is achieved. 
 
-###Classes
+### Classes
 ```
 plane_class.py
 vehicle_class.py 
@@ -19,7 +19,7 @@ car_class.py
 
 ```
 
-###Vehicle_Class
+### Vehicle_Class
 ```
 Characterristics:
 Number of Passengers
@@ -30,7 +30,7 @@ Cargo Size
 # breaking
 ```
 
-###Car_Class
+### Car_Class
 ```
 Used Inheritance 
 
@@ -44,7 +44,7 @@ park
 honk 
 ```
 
-###Plane Class
+### Plane Class
 ```
 Used Inheritance 
 
@@ -58,7 +58,7 @@ touchdown
 take_off
 ```
 
-###run_vehicle
+### run_vehicle
 ```Python
 #Pseudo-Code
 
