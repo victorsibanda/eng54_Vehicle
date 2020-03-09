@@ -1,4 +1,4 @@
-# Vehicle OOP :Wink:
+# Vehicle OOP :smiley:
 
 In this project I have created 3 classes. The first class created
 is the vehicle class. In which the characteristics for the cargo size and passenger
